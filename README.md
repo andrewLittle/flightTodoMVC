@@ -1,4 +1,4 @@
 flightTodoMVC
 =============
 
-A todo app base on TodoMVC project using Twitter's Flight framework
+A todo app based on TodoMVC project using Twitter's Flight framework
